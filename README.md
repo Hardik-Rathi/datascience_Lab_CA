@@ -18,6 +18,7 @@ This repository contains the complete analytical workflow for the Air Travel Dat
 ```text
 datascience_Lab_CA/
 ├── PHASE ONE DATA HANDELING AND DATA CLEANING.ipynb   # Phase 1: Cleaning & preprocessing notebook
+├── SOURCE CODE FOR PHASE 1.PY                        # RAW SOURCE CODE 
 ├── Air_Travel_Phase2_Phase3_Analysis.ipynb           # Phase 2 & 3: Statistical analysis & visualization notebook
 ├── export.csv                                        # Raw dataset
 ├── export_phase1_cleaned.csv                         # Cleaned dataset
